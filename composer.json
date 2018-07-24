@@ -2,14 +2,14 @@
 	"name": "metola/yii2fullcalendar",
 	"description": "Yii2 fullcalendar Widgets",
 	"keywords": ["yii2", "fullcalendar","widget"],
-	"homepage": "",
+	"homepage": "test",
 	"type": "yii2-extension",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Alejandro Metola",
 			"email": "alexmetola@hotmail.com",
-			"homepage": "",
+			"homepage": "test",
 			"role": "Developer"
 		}
 	],
