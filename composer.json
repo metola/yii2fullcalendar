@@ -26,5 +26,21 @@
 	},
 	"autoload": {
 		"psr-4": { "yii2fullcalendar\\": "" }
-	}
+	}",
+	"config": {
+        "process-timeout": 1800,
+        "fxp-asset": {
+            "enabled": false,
+            "installer-paths": {
+                "npm-asset-library": "vendor/npm",
+                "bower-asset-library": "vendor/bower"
+            }
+        }
+    },
+    "extra": {
+        "installer-types": ["bower-asset", "npm-asset"],
+        "installer-paths": {
+            "public/assets/{$vendor}/{$name}/": ["type:bower-asset", "type:npm-asset"]
+        }
+    }
 }
