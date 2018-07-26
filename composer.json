@@ -14,7 +14,7 @@
 	"support": {
 		"source": "https://github.com/metola/yii2fullcalendar"
 	},
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui" : "*",
