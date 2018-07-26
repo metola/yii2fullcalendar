@@ -17,6 +17,8 @@ http://yii2fullcalendar.beeye.org
 [![Maintainability](https://api.codeclimate.com/v1/badges/15d573919eba71b925c5/maintainability)](https://codeclimate.com/github/metola/yii2fullcalendar/maintainability)
 [![License](https://poser.pugx.org/philippfrenzel/yii2fullcalendar/license.svg)](https://packagist.org/packages/philippfrenzel/yii2fullcalendar)
 [![Coverage Status](https://coveralls.io/repos/github/metola/yii2fullcalendar/badge.svg)](https://coveralls.io/github/metola/yii2fullcalendar)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/badges/quality-score.png?b=bugfix)](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/?branch=bugfix)
+[![Code Coverage](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/badges/coverage.png?b=bugfix)](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/?branch=bugfix)
 
 Installation
 ============
