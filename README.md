@@ -19,7 +19,7 @@ http://yii2fullcalendar.beeye.org
 [![Coverage Status](https://coveralls.io/repos/github/metola/yii2fullcalendar/badge.svg)](https://coveralls.io/github/metola/yii2fullcalendar)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/badges/quality-score.png?b=bugfix)](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/?branch=bugfix)
 [![Code Coverage](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/badges/coverage.png?b=bugfix)](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/?branch=bugfix)
-
+[![Build Status](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/badges/build.png?b=bugfix)](https://scrutinizer-ci.com/g/metola/yii2fullcalendar/build-status/bugfix)
 Installation
 ============
 Package is although registered at packagist.org - so you can just add one line of code, to let it run!
